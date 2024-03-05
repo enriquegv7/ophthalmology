@@ -1,1 +1,1 @@
-# Ophthalmology project based on IA by Enrique García Velasco.
+# Ophthalmology project based on IA by Enrique García Velasco .
